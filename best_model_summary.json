@@ -1,0 +1,7 @@
+{
+  "Best model": "Soft Voting (Tuned)",
+  "Best accuracy": 0.97422,
+  "Why best": "The selected model delivered the highest test accuracy with reliable cross-validation consistency.",
+  "Practical application": "Can be deployed in browser plugins, secure gateways, and SOC pipelines for real-time phishing URL screening.",
+  "Future scope": "Integrate dynamic webpage features, online learning, and real-time threat-intelligence feeds to improve adaptability."
+}
